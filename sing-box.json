@@ -555,7 +555,12 @@
     {
       "tag": "jp-auto",
       "type": "urltest",
-      "outbounds": [],
+      "outbounds":[
+        "{all}"
+      ],
+      "filter":[
+        {"action":"include","keywords":["🇯🇵|JP|jp|日本|日|Japan"]}
+      ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
       "tolerance": 50
