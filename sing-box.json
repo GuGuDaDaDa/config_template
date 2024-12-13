@@ -473,7 +473,7 @@
         "{all}"
       ],
       "filter":[
-        {"action":"include","keywords":["🇭🇰|HK|hk|香港|港|HongKong"]}
+        {"action":"include","keywords":["HK|hk|香港|港|HongKong"]}
       ]
     },
     {
@@ -493,7 +493,7 @@
         "{all}"
       ],
       "filter":[
-        {"action":"include","keywords":["🇯🇵|JP|jp|日本|日|Japan"]}
+        {"action":"include","keywords":["🇯🇵|JP|jp|日本|Japan"]}
       ]
     },
     {
@@ -533,7 +533,7 @@
         "{all}"
       ],
       "filter":[
-        {"action":"include","keywords":["🇭🇰|HK|hk|香港|港|HongKong"]}
+        {"action":"include","keywords":["HK|hk|香港|港|HongKong"]}
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
@@ -559,7 +559,7 @@
         "{all}"
       ],
       "filter":[
-        {"action":"include","keywords":["🇯🇵|JP|jp|日本|日|Japan"]}
+        {"action":"include","keywords":["🇯🇵|JP|jp|日本|Japan"]}
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "1m",
